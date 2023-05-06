@@ -1,0 +1,73 @@
+{% extends "admin/base_site.html" %}
+
+
+{% block extrastyle %}
+<style>
+    .jour-ferie {
+        background-color: #3C1C04FF !important;
+    }
+
+    .weekend {
+        background-color: #372D2DFF !important;
+    }
+
+    tr:nth-child(odd) {
+        background-color: initial;
+    }
+
+    tr:nth-child(even) {
+        background-color: initial;
+    }
+
+    /* Retirer les puces des listes à puces dans les cellules de la table */
+    table td ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+    table td ul li {
+        list-style-type: none;
+        padding-left: 0;
+    }
+</style>
+{% endblock %}
+
+{% block title %}Facture pour {{ user.first_name }} {{ user.last_name }}{% endblock %}
+
+{% block content %}
+<h1>Facture pour {{ user.first_name }} {{ user.last_name }}</h1>
+<h2>{{ month }}/{{ year }}</h2>
+
+<h3>Nombre de jours travaillés : {{ total_temps_travaille }} j</h3>
+<h3>Montant total : {{ montant }} EUR</h3>
+
+<table>
+    <thead>
+    <tr>
+        <th>Jour</th>
+        <th>Date</th>
+        <th>Réalisations</th>
+        <th>Temps travaillé</th>
+        <th>Weekend</th>
+        <th>Jour férié</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for report in daily_reports %}
+    <tr class="{% if report.jour_ferie %}jour-ferie{% elif report.weekend %}weekend{% endif %}">
+        <td>{{ report.date|date:"l" }}</td>
+        <td>{{ report.date|date:"j" }}</td>
+        <td>
+            <ul>
+                {% for line in report.report_lines %}
+                <li>[{{ line.label.name }}] {{ line.content }}</li>
+                {% endfor %}
+            </ul>
+        </td>
+        <td>{{ report.temps_travaille }} j</td>
+        <td>{% if report.weekend %}X{% endif %}</td>
+        <td>{% if report.jour_ferie %}X{% endif %}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

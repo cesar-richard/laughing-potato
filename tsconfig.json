@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "baseUrl": "laughingpotato/frontend/src",
+    "paths": {
+      "@sparkle/*": [
+        "*"
+      ]
+    }
+  }
+}

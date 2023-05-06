@@ -1,0 +1,11 @@
+*.py
+*.json
+*.yml
+*.md
+*.txt
+*.html
+requirements.in
+*.ini
+*.lock
+laughingpotato/frontend/dist
+node_modules

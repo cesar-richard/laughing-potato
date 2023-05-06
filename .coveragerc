@@ -1,0 +1,23 @@
+[run]
+branch = True
+source = sparkle
+omit =
+    sparkle/config/*
+    sparkle/api/middlewares/*
+    sparkle/api/admin.py
+    sparkle/api/utils.py
+    sparkle/conftest.py
+    sparkle/asgi.py
+    sparkle/wsgi.py
+[html]
+directory = htmlcov
+
+[xml]
+output = coverage.xml
+
+[lcov]
+output = coverage.lcov
+
+[paths]
+source =
+    sparkle

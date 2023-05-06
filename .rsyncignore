@@ -1,0 +1,8 @@
+.git
+**/__pycache__
+venv
+node_modules
+.git
+.github
+sparkle/frontend
+static

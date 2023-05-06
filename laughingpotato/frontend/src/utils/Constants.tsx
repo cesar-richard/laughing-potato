@@ -1,0 +1,6 @@
+const {LAUGHINGPOTATO_BASE_URL, NODE_ENV} = process.env;
+
+export {
+  LAUGHINGPOTATO_BASE_URL,
+  NODE_ENV,
+};

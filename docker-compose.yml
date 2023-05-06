@@ -1,0 +1,31 @@
+version: "3.9"
+services:
+  db:
+    image: mariadb
+    ports:
+      - "3306:3306"
+    environment:
+      MARIADB_ROOT_PASSWORD: laughingpotato
+      MARIADB_DATABASE: laughingpotato
+      MARIADB_USER: laughingpotato
+      MARIADB_PASSWORD: laughingpotato
+  web:
+    build: ""
+    environment:
+      LAUGHINGPOTATO_DJANGO_SECRET: "mysupersecretsecret"
+      LAUGHINGPOTATO_DJANGO_DEBUG: "True"
+      LAUGHINGPOTATO_DJANGO_ALLOWED_HOSTS: "*"
+      LAUGHINGPOTATO_BASE_URL: "/"
+      LAUGHINGPOTATO_DB_DEFAULT: "mysql://root:laughingpotato@db/laughingpotato"
+      LAUGHINGPOTATO_OAUTH_SETTINGS_ID: "YOUR_ID"
+      LAUGHINGPOTATO_OAUTH_SETTINGS_SECRET: "YOUR_SECRET"
+      LAUGHINGPOTATO_WEEZPAY_APPKEY: "YOUR_APPKEY"
+      LAUGHINGPOTATO_LOG_LEVEL: "INFO"
+    ports:
+      - "8003:8000"
+    volumes:
+      - .:/code
+    links:
+      - db
+    depends_on:
+      - db
