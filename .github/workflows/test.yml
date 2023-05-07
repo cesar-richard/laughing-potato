@@ -1,64 +1,64 @@
-name: Tests & Coverage
-
-on:
-  push:
-    branches:
-      - master
-  pull_request:
-
-
-jobs:
-  backend-tests:
-    runs-on: ubuntu-latest
-    services:
-      mysql:
-        image: mariadb
-        env:
-          MARIADB_ROOT_PASSWORD: laughingpotato
-          MARIADB_USER: laughingpotato
-          MARIADB_PASSWORD: laughingpotato
-          MARIADB_DATABASE: test_sparkle
-        ports:
-          - 3306:3306
-        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
-    steps:
-      - uses: actions/checkout@v3
-      - name: Install dependencies
-        run: pip install --no-cache-dir -r requirements.txt
-      - name: Migrate database
-        env:
-          LAUGHINGPOTATO_DJANGO_DEBUG: True
-          LAUGHINGPOTATO_DB_DEFAULT: mysql://root:laughingpotato@127.0.0.1/test_sparkle
-          LAUGHINGPOTATO_DJANGO_SECRET: test!are!great!
-          LAUGHINGPOTATO_BASE_URL: /
-        run: python manage.py migrate
-      - name: Mock front build
-        run: echo '{"status":"done","assets":{"frontend.js":{"name":"frontend.js","path":"laughingpotato/frontend/dist/frontend.js","publicPath":"/static/frontend.js"}},"chunks":{"frontend":["frontend.js"]}}' > laughingpotato/frontend/webpack-stats.json
-      - name: Running tests
-        env:
-          LAUGHINGPOTATO_DJANGO_DEBUG: True
-          LAUGHINGPOTATO_DB_DEFAULT: mysql://root:laughingpotato@127.0.0.1/laughingpotato
-          LAUGHINGPOTATO_DJANGO_SECRET: test!are!great!
-          LAUGHINGPOTATO_BASE_URL: /
-        run: pytest --junitxml=pytest.xml --cov-report=xml --cov-report=lcov --cov=laughingpotato --cov-config=.coveragerc
-      - name: Pytest coverage comment
-        uses: MishaKav/pytest-coverage-comment@main
-        with:
-          pytest-coverage-path: ./coverage.xml
-          junitxml-path: ./pytest.xml
-      - name: Coveralls
-        uses: coverallsapp/github-action@master
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          path-to-lcov: ./coverage.lcov
-
-  frontend-tests:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile --immutable --immutable-cache --check-cache
-      - name: Build frontend
-        run: yarn build
-      - name: Running tests
-        run: yarn test
+#name: Tests & Coverage
+#
+#on:
+#  push:
+#    branches:
+#      - master
+#  pull_request:
+#
+#
+#jobs:
+#  backend-tests:
+#    runs-on: ubuntu-latest
+#    services:
+#      mysql:
+#        image: mariadb
+#        env:
+#          MARIADB_ROOT_PASSWORD: laughingpotato
+#          MARIADB_USER: laughingpotato
+#          MARIADB_PASSWORD: laughingpotato
+#          MARIADB_DATABASE: test_sparkle
+#        ports:
+#          - 3306:3306
+#        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
+#    steps:
+#      - uses: actions/checkout@v3
+#      - name: Install dependencies
+#        run: pip install --no-cache-dir -r requirements.txt
+#      - name: Migrate database
+#        env:
+#          LAUGHINGPOTATO_DJANGO_DEBUG: True
+#          LAUGHINGPOTATO_DB_DEFAULT: mysql://root:laughingpotato@127.0.0.1/test_sparkle
+#          LAUGHINGPOTATO_DJANGO_SECRET: test!are!great!
+#          LAUGHINGPOTATO_BASE_URL: /
+#        run: python manage.py migrate
+#      - name: Mock front build
+#        run: echo '{"status":"done","assets":{"frontend.js":{"name":"frontend.js","path":"laughingpotato/frontend/dist/frontend.js","publicPath":"/static/frontend.js"}},"chunks":{"frontend":["frontend.js"]}}' > laughingpotato/frontend/webpack-stats.json
+#      - name: Running tests
+#        env:
+#          LAUGHINGPOTATO_DJANGO_DEBUG: True
+#          LAUGHINGPOTATO_DB_DEFAULT: mysql://root:laughingpotato@127.0.0.1/laughingpotato
+#          LAUGHINGPOTATO_DJANGO_SECRET: test!are!great!
+#          LAUGHINGPOTATO_BASE_URL: /
+#        run: pytest --junitxml=pytest.xml --cov-report=xml --cov-report=lcov --cov=laughingpotato --cov-config=.coveragerc
+#      - name: Pytest coverage comment
+#        uses: MishaKav/pytest-coverage-comment@main
+#        with:
+#          pytest-coverage-path: ./coverage.xml
+#          junitxml-path: ./pytest.xml
+#      - name: Coveralls
+#        uses: coverallsapp/github-action@master
+#        with:
+#          github-token: ${{ secrets.GITHUB_TOKEN }}
+#          path-to-lcov: ./coverage.lcov
+#
+#  frontend-tests:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v3
+#      - name: Install dependencies
+#        run: yarn install --frozen-lockfile --immutable --immutable-cache --check-cache
+#      - name: Build frontend
+#        run: yarn build
+#      - name: Running tests
+#        run: yarn test

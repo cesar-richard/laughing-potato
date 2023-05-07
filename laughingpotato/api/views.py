@@ -1,23 +1,19 @@
 from django.db.models import Sum
 from rest_framework import generics, status
 from rest_framework.response import Response
+from rest_framework import viewsets
 
 from .models import Report, CustomUser, ReportLineLabel, ReportLine
 from .serializers import ReportSerializer, CustomUserSerializer, ReportLineLabelSerializer, ReportLineSerializer
 
 
 # Ajoutez ces imports
-class ReportListCreate(generics.ListCreateAPIView):
+class ReportViewSet(viewsets.ModelViewSet):
     queryset = Report.objects.all()
     serializer_class = ReportSerializer
 
 
-class ReportRetrieveUpdateDestroy(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Report.objects.all()
-    serializer_class = ReportSerializer
-
-
-class CustomUserList(generics.ListAPIView):
+class CustomUserList(viewsets.ReadOnlyModelViewSet):
     queryset = CustomUser.objects.all()
     serializer_class = CustomUserSerializer
 
@@ -56,16 +52,11 @@ class FactureView(generics.GenericAPIView):
         return Response(facture_data)
 
 
-class ReportLineListCreate(generics.ListCreateAPIView):
+class ReportLineViewSet(viewsets.ModelViewSet):
     queryset = ReportLine.objects.all()
     serializer_class = ReportLineSerializer
 
 
-class ReportLineRetrieveUpdateDestroy(generics.RetrieveUpdateDestroyAPIView):
-    queryset = ReportLine.objects.all()
-    serializer_class = ReportLineSerializer
-
-
-class ReportLineLabelList(generics.ListAPIView):
+class ReportLineLabelViewSet(viewsets.ModelViewSet):
     queryset = ReportLineLabel.objects.all()
     serializer_class = ReportLineLabelSerializer

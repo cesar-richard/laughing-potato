@@ -3,7 +3,7 @@ from django.db import models
 
 
 class CustomUser(AbstractUser):
-    taux_journalier = models.DecimalField(max_digits=10, decimal_places=2)
+    taux_journalier = models.DecimalField(max_digits=10, decimal_places=2, default=0.0)
 
     def __str__(self):
         return self.username
