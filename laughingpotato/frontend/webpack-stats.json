@@ -3,746 +3,234 @@
   "assets": {
     "278156e41e0ad908cf7f.woff2": {
       "name": "278156e41e0ad908cf7f.woff2",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/278156e41e0ad908cf7f.woff2",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/278156e41e0ad908cf7f.woff2",
       "publicPath": "/static/278156e41e0ad908cf7f.woff2"
     },
     "38c6d8bab26db77d8c80.woff2": {
       "name": "38c6d8bab26db77d8c80.woff2",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/38c6d8bab26db77d8c80.woff2",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/38c6d8bab26db77d8c80.woff2",
       "publicPath": "/static/38c6d8bab26db77d8c80.woff2"
     },
     "425399f81e4ce7cbd967.woff": {
       "name": "425399f81e4ce7cbd967.woff",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/425399f81e4ce7cbd967.woff",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/425399f81e4ce7cbd967.woff",
       "publicPath": "/static/425399f81e4ce7cbd967.woff"
     },
     "5367103510b27b784827.ttf": {
       "name": "5367103510b27b784827.ttf",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/5367103510b27b784827.ttf",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/5367103510b27b784827.ttf",
       "publicPath": "/static/5367103510b27b784827.ttf"
     },
     "62d9dae4e0040e81c980.svg": {
       "name": "62d9dae4e0040e81c980.svg",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/62d9dae4e0040e81c980.svg",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/62d9dae4e0040e81c980.svg",
       "publicPath": "/static/62d9dae4e0040e81c980.svg"
     },
     "65a2fb6d9aaa164b41a0.ttf": {
       "name": "65a2fb6d9aaa164b41a0.ttf",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/65a2fb6d9aaa164b41a0.ttf",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/65a2fb6d9aaa164b41a0.ttf",
       "publicPath": "/static/65a2fb6d9aaa164b41a0.ttf"
     },
     "6729d29753e000c17489.svg": {
       "name": "6729d29753e000c17489.svg",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/6729d29753e000c17489.svg",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/6729d29753e000c17489.svg",
       "publicPath": "/static/6729d29753e000c17489.svg"
     },
     "687a4990ea22bb1a49d4.woff2": {
       "name": "687a4990ea22bb1a49d4.woff2",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/687a4990ea22bb1a49d4.woff2",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/687a4990ea22bb1a49d4.woff2",
       "publicPath": "/static/687a4990ea22bb1a49d4.woff2"
     },
     "752905fa5edf21fc52a1.eot": {
       "name": "752905fa5edf21fc52a1.eot",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/752905fa5edf21fc52a1.eot",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/752905fa5edf21fc52a1.eot",
       "publicPath": "/static/752905fa5edf21fc52a1.eot"
     },
     "99f63ae7a743f21ab308.png": {
       "name": "99f63ae7a743f21ab308.png",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/99f63ae7a743f21ab308.png",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/99f63ae7a743f21ab308.png",
       "publicPath": "/static/99f63ae7a743f21ab308.png"
     },
     "9c4845b4b41ef40a22fa.svg": {
       "name": "9c4845b4b41ef40a22fa.svg",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/9c4845b4b41ef40a22fa.svg",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/9c4845b4b41ef40a22fa.svg",
       "publicPath": "/static/9c4845b4b41ef40a22fa.svg"
     },
     "a01e3f2d6c83dc3aee17.eot": {
       "name": "a01e3f2d6c83dc3aee17.eot",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/a01e3f2d6c83dc3aee17.eot",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/a01e3f2d6c83dc3aee17.eot",
       "publicPath": "/static/a01e3f2d6c83dc3aee17.eot"
     },
     "c656b8caa454ed19b9a2.ttf": {
       "name": "c656b8caa454ed19b9a2.ttf",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/c656b8caa454ed19b9a2.ttf",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/c656b8caa454ed19b9a2.ttf",
       "publicPath": "/static/c656b8caa454ed19b9a2.ttf"
     },
     "cac87dc00c87a5d74711.woff": {
       "name": "cac87dc00c87a5d74711.woff",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/cac87dc00c87a5d74711.woff",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/cac87dc00c87a5d74711.woff",
       "publicPath": "/static/cac87dc00c87a5d74711.woff"
     },
     "d68fa3e67dbb653a13ce.eot": {
       "name": "d68fa3e67dbb653a13ce.eot",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/d68fa3e67dbb653a13ce.eot",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/d68fa3e67dbb653a13ce.eot",
       "publicPath": "/static/d68fa3e67dbb653a13ce.eot"
     },
     "ddae9b1ba9b0b42f5880.woff": {
       "name": "ddae9b1ba9b0b42f5880.woff",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/ddae9b1ba9b0b42f5880.woff",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/ddae9b1ba9b0b42f5880.woff",
       "publicPath": "/static/ddae9b1ba9b0b42f5880.woff"
     },
     "defaultVendors-node_modules_luxon_src_luxon_js.bundle.js": {
       "name": "defaultVendors-node_modules_luxon_src_luxon_js.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_luxon_src_luxon_js.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_luxon_src_luxon_js.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_luxon_src_luxon_js.bundle.js"
     },
     "defaultVendors-node_modules_qrcode_react_lib_esm_index_js.bundle.js": {
       "name": "defaultVendors-node_modules_qrcode_react_lib_esm_index_js.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_qrcode_react_lib_esm_index_js.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_qrcode_react_lib_esm_index_js.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_qrcode_react_lib_esm_index_js.bundle.js"
     },
     "defaultVendors-node_modules_react-use_esm_useDebounce_js-node_modules_semantic-ui-react_dist_-98fd01.bundle.js": {
       "name": "defaultVendors-node_modules_react-use_esm_useDebounce_js-node_modules_semantic-ui-react_dist_-98fd01.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_react-use_esm_useDebounce_js-node_modules_semantic-ui-react_dist_-98fd01.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_react-use_esm_useDebounce_js-node_modules_semantic-ui-react_dist_-98fd01.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_react-use_esm_useDebounce_js-node_modules_semantic-ui-react_dist_-98fd01.bundle.js"
     },
     "defaultVendors-node_modules_react-use_esm_useInterval_js-node_modules_semantic-ui-react_dist_-918c2d.bundle.js": {
       "name": "defaultVendors-node_modules_react-use_esm_useInterval_js-node_modules_semantic-ui-react_dist_-918c2d.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_react-use_esm_useInterval_js-node_modules_semantic-ui-react_dist_-918c2d.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_react-use_esm_useInterval_js-node_modules_semantic-ui-react_dist_-918c2d.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_react-use_esm_useInterval_js-node_modules_semantic-ui-react_dist_-918c2d.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_collections_Menu_Menu_js-node_modules_s-b0f545.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_collections_Menu_Menu_js-node_modules_s-b0f545.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_collections_Menu_Menu_js-node_modules_s-b0f545.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_collections_Menu_Menu_js-node_modules_s-b0f545.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_collections_Menu_Menu_js-node_modules_s-b0f545.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Button_Button_js-node_modules_-3cf001.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Button_Button_js-node_modules_-3cf001.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Button_Button_js-node_modules_-3cf001.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Button_Button_js-node_modules_-3cf001.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Button_Button_js-node_modules_-3cf001.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Header_Header_js.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Header_Header_js.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Header_Header_js.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Header_Header_js.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Header_Header_js.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Image_Image_js-node_modules_se-33b851.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Image_Image_js-node_modules_se-33b851.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Image_Image_js-node_modules_se-33b851.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Image_Image_js-node_modules_se-33b851.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Image_Image_js-node_modules_se-33b851.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Placeholder_Placeholder_js.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Placeholder_Placeholder_js.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Placeholder_Placeholder_js.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Placeholder_Placeholder_js.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Placeholder_Placeholder_js.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Segment_Segment_js.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Segment_Segment_js.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Segment_Segment_js.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Segment_Segment_js.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_elements_Segment_Segment_js.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_modules_Popup_Popup_js.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_modules_Popup_Popup_js.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_modules_Popup_Popup_js.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_modules_Popup_Popup_js.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_modules_Popup_Popup_js.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_views_Card_Card_js-node_modules_semanti-196e43.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_views_Card_Card_js-node_modules_semanti-196e43.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_views_Card_Card_js-node_modules_semanti-196e43.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_views_Card_Card_js-node_modules_semanti-196e43.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_views_Card_Card_js-node_modules_semanti-196e43.bundle.js"
     },
     "defaultVendors-node_modules_semantic-ui-react_dist_es_views_Item_Item_js-node_modules_semanti-1e61a2.bundle.js": {
       "name": "defaultVendors-node_modules_semantic-ui-react_dist_es_views_Item_Item_js-node_modules_semanti-1e61a2.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_views_Item_Item_js-node_modules_semanti-1e61a2.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/defaultVendors-node_modules_semantic-ui-react_dist_es_views_Item_Item_js-node_modules_semanti-1e61a2.bundle.js",
       "publicPath": "/static/defaultVendors-node_modules_semantic-ui-react_dist_es_views_Item_Item_js-node_modules_semanti-1e61a2.bundle.js"
     },
-    "frontend-00b9f1ea6a5ec0aaa8d4.js": {
-      "name": "frontend-00b9f1ea6a5ec0aaa8d4.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-00b9f1ea6a5ec0aaa8d4.js",
-      "publicPath": "/static/frontend-00b9f1ea6a5ec0aaa8d4.js"
-    },
-    "frontend-0b1dcd2d632044fb3def.js": {
-      "name": "frontend-0b1dcd2d632044fb3def.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-0b1dcd2d632044fb3def.js",
-      "publicPath": "/static/frontend-0b1dcd2d632044fb3def.js"
-    },
-    "frontend-1194905bfa40a26ccc98.js": {
-      "name": "frontend-1194905bfa40a26ccc98.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-1194905bfa40a26ccc98.js",
-      "publicPath": "/static/frontend-1194905bfa40a26ccc98.js"
-    },
-    "frontend-1864fe9beba0287e2c36.js": {
-      "name": "frontend-1864fe9beba0287e2c36.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-1864fe9beba0287e2c36.js",
-      "publicPath": "/static/frontend-1864fe9beba0287e2c36.js"
-    },
-    "frontend-1939d7f9477be2b02d11.js": {
-      "name": "frontend-1939d7f9477be2b02d11.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-1939d7f9477be2b02d11.js",
-      "publicPath": "/static/frontend-1939d7f9477be2b02d11.js"
-    },
-    "frontend-22e9a32ebf702dc99ce4.js": {
-      "name": "frontend-22e9a32ebf702dc99ce4.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-22e9a32ebf702dc99ce4.js",
-      "publicPath": "/static/frontend-22e9a32ebf702dc99ce4.js"
-    },
-    "frontend-29152b4bc0411e76ae27.js": {
-      "name": "frontend-29152b4bc0411e76ae27.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-29152b4bc0411e76ae27.js",
-      "publicPath": "/static/frontend-29152b4bc0411e76ae27.js"
-    },
-    "frontend-30f0b7d4a9ea0d7511d5.js": {
-      "name": "frontend-30f0b7d4a9ea0d7511d5.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-30f0b7d4a9ea0d7511d5.js",
-      "publicPath": "/static/frontend-30f0b7d4a9ea0d7511d5.js"
-    },
-    "frontend-3a57fc72ae614a48ed2a.js": {
-      "name": "frontend-3a57fc72ae614a48ed2a.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-3a57fc72ae614a48ed2a.js",
-      "publicPath": "/static/frontend-3a57fc72ae614a48ed2a.js"
-    },
-    "frontend-430c1d709d6c4d8eb7fc.js": {
-      "name": "frontend-430c1d709d6c4d8eb7fc.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-430c1d709d6c4d8eb7fc.js",
-      "publicPath": "/static/frontend-430c1d709d6c4d8eb7fc.js"
-    },
-    "frontend-4a03053a2abaf0db6931.js": {
-      "name": "frontend-4a03053a2abaf0db6931.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-4a03053a2abaf0db6931.js",
-      "publicPath": "/static/frontend-4a03053a2abaf0db6931.js"
-    },
-    "frontend-6678af2736a5f851dea7.js": {
-      "name": "frontend-6678af2736a5f851dea7.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-6678af2736a5f851dea7.js",
-      "publicPath": "/static/frontend-6678af2736a5f851dea7.js"
-    },
-    "frontend-67774564067cff4f46e7.js": {
-      "name": "frontend-67774564067cff4f46e7.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-67774564067cff4f46e7.js",
-      "publicPath": "/static/frontend-67774564067cff4f46e7.js"
-    },
-    "frontend-75d48fa354a1df62a7ec.js": {
-      "name": "frontend-75d48fa354a1df62a7ec.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-75d48fa354a1df62a7ec.js",
-      "publicPath": "/static/frontend-75d48fa354a1df62a7ec.js"
-    },
-    "frontend-8ae7a94722e2e57c5a8d.js": {
-      "name": "frontend-8ae7a94722e2e57c5a8d.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-8ae7a94722e2e57c5a8d.js",
-      "publicPath": "/static/frontend-8ae7a94722e2e57c5a8d.js"
-    },
-    "frontend-9471d9e81244c7ee8a8d.js": {
-      "name": "frontend-9471d9e81244c7ee8a8d.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-9471d9e81244c7ee8a8d.js",
-      "publicPath": "/static/frontend-9471d9e81244c7ee8a8d.js"
-    },
-    "frontend-984c9ba66be4b1e5fb9b.js": {
-      "name": "frontend-984c9ba66be4b1e5fb9b.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-984c9ba66be4b1e5fb9b.js",
-      "publicPath": "/static/frontend-984c9ba66be4b1e5fb9b.js"
-    },
-    "frontend-a233da2a2c443469ada1.js": {
-      "name": "frontend-a233da2a2c443469ada1.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-a233da2a2c443469ada1.js",
-      "publicPath": "/static/frontend-a233da2a2c443469ada1.js"
-    },
-    "frontend-a2fb36a6c730cd36fbb2.js": {
-      "name": "frontend-a2fb36a6c730cd36fbb2.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-a2fb36a6c730cd36fbb2.js",
-      "publicPath": "/static/frontend-a2fb36a6c730cd36fbb2.js"
-    },
-    "frontend-a8883f4d1c5a61d8fa20.js": {
-      "name": "frontend-a8883f4d1c5a61d8fa20.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-a8883f4d1c5a61d8fa20.js",
-      "publicPath": "/static/frontend-a8883f4d1c5a61d8fa20.js"
-    },
-    "frontend-b4477f732c9b7c560366.js": {
-      "name": "frontend-b4477f732c9b7c560366.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-b4477f732c9b7c560366.js",
-      "publicPath": "/static/frontend-b4477f732c9b7c560366.js"
-    },
-    "frontend-ba2e0e62ccf0352094fd.js": {
-      "name": "frontend-ba2e0e62ccf0352094fd.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-ba2e0e62ccf0352094fd.js",
-      "publicPath": "/static/frontend-ba2e0e62ccf0352094fd.js"
-    },
-    "frontend-ba62acd038ec6fd1e71f.js": {
-      "name": "frontend-ba62acd038ec6fd1e71f.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-ba62acd038ec6fd1e71f.js",
-      "publicPath": "/static/frontend-ba62acd038ec6fd1e71f.js"
-    },
-    "frontend-d09f3ff3b8033a7efb34.js": {
-      "name": "frontend-d09f3ff3b8033a7efb34.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-d09f3ff3b8033a7efb34.js",
-      "publicPath": "/static/frontend-d09f3ff3b8033a7efb34.js"
-    },
-    "frontend-d34999880c8985de87f5.js": {
-      "name": "frontend-d34999880c8985de87f5.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-d34999880c8985de87f5.js",
-      "publicPath": "/static/frontend-d34999880c8985de87f5.js"
-    },
-    "frontend-f5b92e20e688c580b7ce.js": {
-      "name": "frontend-f5b92e20e688c580b7ce.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend-f5b92e20e688c580b7ce.js",
-      "publicPath": "/static/frontend-f5b92e20e688c580b7ce.js"
-    },
-    "frontend.00b9f1ea6a5ec0aaa8d4.hot-update.js": {
-      "name": "frontend.00b9f1ea6a5ec0aaa8d4.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.00b9f1ea6a5ec0aaa8d4.hot-update.js",
-      "publicPath": "/static/frontend.00b9f1ea6a5ec0aaa8d4.hot-update.js"
-    },
-    "frontend.00b9f1ea6a5ec0aaa8d4.hot-update.json": {
-      "name": "frontend.00b9f1ea6a5ec0aaa8d4.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.00b9f1ea6a5ec0aaa8d4.hot-update.json",
-      "publicPath": "/static/frontend.00b9f1ea6a5ec0aaa8d4.hot-update.json"
-    },
-    "frontend.0b1dcd2d632044fb3def.hot-update.js": {
-      "name": "frontend.0b1dcd2d632044fb3def.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.0b1dcd2d632044fb3def.hot-update.js",
-      "publicPath": "/static/frontend.0b1dcd2d632044fb3def.hot-update.js"
-    },
-    "frontend.0b1dcd2d632044fb3def.hot-update.json": {
-      "name": "frontend.0b1dcd2d632044fb3def.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.0b1dcd2d632044fb3def.hot-update.json",
-      "publicPath": "/static/frontend.0b1dcd2d632044fb3def.hot-update.json"
-    },
-    "frontend.1194905bfa40a26ccc98.hot-update.js": {
-      "name": "frontend.1194905bfa40a26ccc98.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.1194905bfa40a26ccc98.hot-update.js",
-      "publicPath": "/static/frontend.1194905bfa40a26ccc98.hot-update.js"
-    },
-    "frontend.1194905bfa40a26ccc98.hot-update.json": {
-      "name": "frontend.1194905bfa40a26ccc98.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.1194905bfa40a26ccc98.hot-update.json",
-      "publicPath": "/static/frontend.1194905bfa40a26ccc98.hot-update.json"
-    },
-    "frontend.1864fe9beba0287e2c36.hot-update.js": {
-      "name": "frontend.1864fe9beba0287e2c36.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.1864fe9beba0287e2c36.hot-update.js",
-      "publicPath": "/static/frontend.1864fe9beba0287e2c36.hot-update.js"
-    },
-    "frontend.1864fe9beba0287e2c36.hot-update.json": {
-      "name": "frontend.1864fe9beba0287e2c36.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.1864fe9beba0287e2c36.hot-update.json",
-      "publicPath": "/static/frontend.1864fe9beba0287e2c36.hot-update.json"
-    },
-    "frontend.22e9a32ebf702dc99ce4.hot-update.js": {
-      "name": "frontend.22e9a32ebf702dc99ce4.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.22e9a32ebf702dc99ce4.hot-update.js",
-      "publicPath": "/static/frontend.22e9a32ebf702dc99ce4.hot-update.js"
-    },
-    "frontend.22e9a32ebf702dc99ce4.hot-update.json": {
-      "name": "frontend.22e9a32ebf702dc99ce4.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.22e9a32ebf702dc99ce4.hot-update.json",
-      "publicPath": "/static/frontend.22e9a32ebf702dc99ce4.hot-update.json"
-    },
-    "frontend.29152b4bc0411e76ae27.hot-update.js": {
-      "name": "frontend.29152b4bc0411e76ae27.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.29152b4bc0411e76ae27.hot-update.js",
-      "publicPath": "/static/frontend.29152b4bc0411e76ae27.hot-update.js"
-    },
-    "frontend.29152b4bc0411e76ae27.hot-update.json": {
-      "name": "frontend.29152b4bc0411e76ae27.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.29152b4bc0411e76ae27.hot-update.json",
-      "publicPath": "/static/frontend.29152b4bc0411e76ae27.hot-update.json"
-    },
-    "frontend.30f0b7d4a9ea0d7511d5.hot-update.js": {
-      "name": "frontend.30f0b7d4a9ea0d7511d5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.30f0b7d4a9ea0d7511d5.hot-update.js",
-      "publicPath": "/static/frontend.30f0b7d4a9ea0d7511d5.hot-update.js"
-    },
-    "frontend.30f0b7d4a9ea0d7511d5.hot-update.json": {
-      "name": "frontend.30f0b7d4a9ea0d7511d5.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.30f0b7d4a9ea0d7511d5.hot-update.json",
-      "publicPath": "/static/frontend.30f0b7d4a9ea0d7511d5.hot-update.json"
-    },
-    "frontend.3a57fc72ae614a48ed2a.hot-update.js": {
-      "name": "frontend.3a57fc72ae614a48ed2a.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.3a57fc72ae614a48ed2a.hot-update.js",
-      "publicPath": "/static/frontend.3a57fc72ae614a48ed2a.hot-update.js"
-    },
-    "frontend.3a57fc72ae614a48ed2a.hot-update.json": {
-      "name": "frontend.3a57fc72ae614a48ed2a.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.3a57fc72ae614a48ed2a.hot-update.json",
-      "publicPath": "/static/frontend.3a57fc72ae614a48ed2a.hot-update.json"
-    },
-    "frontend.430c1d709d6c4d8eb7fc.hot-update.js": {
-      "name": "frontend.430c1d709d6c4d8eb7fc.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.430c1d709d6c4d8eb7fc.hot-update.js",
-      "publicPath": "/static/frontend.430c1d709d6c4d8eb7fc.hot-update.js"
-    },
-    "frontend.430c1d709d6c4d8eb7fc.hot-update.json": {
-      "name": "frontend.430c1d709d6c4d8eb7fc.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.430c1d709d6c4d8eb7fc.hot-update.json",
-      "publicPath": "/static/frontend.430c1d709d6c4d8eb7fc.hot-update.json"
-    },
-    "frontend.4a03053a2abaf0db6931.hot-update.js": {
-      "name": "frontend.4a03053a2abaf0db6931.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.4a03053a2abaf0db6931.hot-update.js",
-      "publicPath": "/static/frontend.4a03053a2abaf0db6931.hot-update.js"
-    },
-    "frontend.4a03053a2abaf0db6931.hot-update.json": {
-      "name": "frontend.4a03053a2abaf0db6931.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.4a03053a2abaf0db6931.hot-update.json",
-      "publicPath": "/static/frontend.4a03053a2abaf0db6931.hot-update.json"
-    },
-    "frontend.67774564067cff4f46e7.hot-update.js": {
-      "name": "frontend.67774564067cff4f46e7.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.67774564067cff4f46e7.hot-update.js",
-      "publicPath": "/static/frontend.67774564067cff4f46e7.hot-update.js"
-    },
-    "frontend.67774564067cff4f46e7.hot-update.json": {
-      "name": "frontend.67774564067cff4f46e7.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.67774564067cff4f46e7.hot-update.json",
-      "publicPath": "/static/frontend.67774564067cff4f46e7.hot-update.json"
-    },
-    "frontend.75d48fa354a1df62a7ec.hot-update.js": {
-      "name": "frontend.75d48fa354a1df62a7ec.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.75d48fa354a1df62a7ec.hot-update.js",
-      "publicPath": "/static/frontend.75d48fa354a1df62a7ec.hot-update.js"
-    },
-    "frontend.75d48fa354a1df62a7ec.hot-update.json": {
-      "name": "frontend.75d48fa354a1df62a7ec.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.75d48fa354a1df62a7ec.hot-update.json",
-      "publicPath": "/static/frontend.75d48fa354a1df62a7ec.hot-update.json"
-    },
-    "frontend.8ae7a94722e2e57c5a8d.hot-update.js": {
-      "name": "frontend.8ae7a94722e2e57c5a8d.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.8ae7a94722e2e57c5a8d.hot-update.js",
-      "publicPath": "/static/frontend.8ae7a94722e2e57c5a8d.hot-update.js"
-    },
-    "frontend.8ae7a94722e2e57c5a8d.hot-update.json": {
-      "name": "frontend.8ae7a94722e2e57c5a8d.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.8ae7a94722e2e57c5a8d.hot-update.json",
-      "publicPath": "/static/frontend.8ae7a94722e2e57c5a8d.hot-update.json"
-    },
-    "frontend.9471d9e81244c7ee8a8d.hot-update.js": {
-      "name": "frontend.9471d9e81244c7ee8a8d.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.9471d9e81244c7ee8a8d.hot-update.js",
-      "publicPath": "/static/frontend.9471d9e81244c7ee8a8d.hot-update.js"
-    },
-    "frontend.9471d9e81244c7ee8a8d.hot-update.json": {
-      "name": "frontend.9471d9e81244c7ee8a8d.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.9471d9e81244c7ee8a8d.hot-update.json",
-      "publicPath": "/static/frontend.9471d9e81244c7ee8a8d.hot-update.json"
-    },
-    "frontend.984c9ba66be4b1e5fb9b.hot-update.js": {
-      "name": "frontend.984c9ba66be4b1e5fb9b.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.984c9ba66be4b1e5fb9b.hot-update.js",
-      "publicPath": "/static/frontend.984c9ba66be4b1e5fb9b.hot-update.js"
-    },
-    "frontend.984c9ba66be4b1e5fb9b.hot-update.json": {
-      "name": "frontend.984c9ba66be4b1e5fb9b.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.984c9ba66be4b1e5fb9b.hot-update.json",
-      "publicPath": "/static/frontend.984c9ba66be4b1e5fb9b.hot-update.json"
-    },
-    "frontend.a233da2a2c443469ada1.hot-update.js": {
-      "name": "frontend.a233da2a2c443469ada1.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.a233da2a2c443469ada1.hot-update.js",
-      "publicPath": "/static/frontend.a233da2a2c443469ada1.hot-update.js"
-    },
-    "frontend.a233da2a2c443469ada1.hot-update.json": {
-      "name": "frontend.a233da2a2c443469ada1.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.a233da2a2c443469ada1.hot-update.json",
-      "publicPath": "/static/frontend.a233da2a2c443469ada1.hot-update.json"
-    },
-    "frontend.a2fb36a6c730cd36fbb2.hot-update.js": {
-      "name": "frontend.a2fb36a6c730cd36fbb2.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.a2fb36a6c730cd36fbb2.hot-update.js",
-      "publicPath": "/static/frontend.a2fb36a6c730cd36fbb2.hot-update.js"
-    },
-    "frontend.a2fb36a6c730cd36fbb2.hot-update.json": {
-      "name": "frontend.a2fb36a6c730cd36fbb2.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.a2fb36a6c730cd36fbb2.hot-update.json",
-      "publicPath": "/static/frontend.a2fb36a6c730cd36fbb2.hot-update.json"
-    },
-    "frontend.a8883f4d1c5a61d8fa20.hot-update.js": {
-      "name": "frontend.a8883f4d1c5a61d8fa20.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.a8883f4d1c5a61d8fa20.hot-update.js",
-      "publicPath": "/static/frontend.a8883f4d1c5a61d8fa20.hot-update.js"
-    },
-    "frontend.a8883f4d1c5a61d8fa20.hot-update.json": {
-      "name": "frontend.a8883f4d1c5a61d8fa20.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.a8883f4d1c5a61d8fa20.hot-update.json",
-      "publicPath": "/static/frontend.a8883f4d1c5a61d8fa20.hot-update.json"
-    },
-    "frontend.b4477f732c9b7c560366.hot-update.js": {
-      "name": "frontend.b4477f732c9b7c560366.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.b4477f732c9b7c560366.hot-update.js",
-      "publicPath": "/static/frontend.b4477f732c9b7c560366.hot-update.js"
-    },
-    "frontend.b4477f732c9b7c560366.hot-update.json": {
-      "name": "frontend.b4477f732c9b7c560366.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.b4477f732c9b7c560366.hot-update.json",
-      "publicPath": "/static/frontend.b4477f732c9b7c560366.hot-update.json"
-    },
-    "frontend.ba2e0e62ccf0352094fd.hot-update.js": {
-      "name": "frontend.ba2e0e62ccf0352094fd.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.ba2e0e62ccf0352094fd.hot-update.js",
-      "publicPath": "/static/frontend.ba2e0e62ccf0352094fd.hot-update.js"
-    },
-    "frontend.ba2e0e62ccf0352094fd.hot-update.json": {
-      "name": "frontend.ba2e0e62ccf0352094fd.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.ba2e0e62ccf0352094fd.hot-update.json",
-      "publicPath": "/static/frontend.ba2e0e62ccf0352094fd.hot-update.json"
-    },
-    "frontend.ba62acd038ec6fd1e71f.hot-update.js": {
-      "name": "frontend.ba62acd038ec6fd1e71f.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.ba62acd038ec6fd1e71f.hot-update.js",
-      "publicPath": "/static/frontend.ba62acd038ec6fd1e71f.hot-update.js"
-    },
-    "frontend.ba62acd038ec6fd1e71f.hot-update.json": {
-      "name": "frontend.ba62acd038ec6fd1e71f.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.ba62acd038ec6fd1e71f.hot-update.json",
-      "publicPath": "/static/frontend.ba62acd038ec6fd1e71f.hot-update.json"
-    },
-    "frontend.d09f3ff3b8033a7efb34.hot-update.js": {
-      "name": "frontend.d09f3ff3b8033a7efb34.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.d09f3ff3b8033a7efb34.hot-update.js",
-      "publicPath": "/static/frontend.d09f3ff3b8033a7efb34.hot-update.js"
-    },
-    "frontend.d09f3ff3b8033a7efb34.hot-update.json": {
-      "name": "frontend.d09f3ff3b8033a7efb34.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.d09f3ff3b8033a7efb34.hot-update.json",
-      "publicPath": "/static/frontend.d09f3ff3b8033a7efb34.hot-update.json"
-    },
-    "frontend.d34999880c8985de87f5.hot-update.js": {
-      "name": "frontend.d34999880c8985de87f5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.d34999880c8985de87f5.hot-update.js",
-      "publicPath": "/static/frontend.d34999880c8985de87f5.hot-update.js"
-    },
-    "frontend.d34999880c8985de87f5.hot-update.json": {
-      "name": "frontend.d34999880c8985de87f5.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.d34999880c8985de87f5.hot-update.json",
-      "publicPath": "/static/frontend.d34999880c8985de87f5.hot-update.json"
-    },
-    "frontend.df95922e35677fb8cae5.hot-update.js": {
-      "name": "frontend.df95922e35677fb8cae5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.df95922e35677fb8cae5.hot-update.js",
-      "publicPath": "/static/frontend.df95922e35677fb8cae5.hot-update.js"
-    },
-    "frontend.df95922e35677fb8cae5.hot-update.json": {
-      "name": "frontend.df95922e35677fb8cae5.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.df95922e35677fb8cae5.hot-update.json",
-      "publicPath": "/static/frontend.df95922e35677fb8cae5.hot-update.json"
-    },
-    "frontend.f5b92e20e688c580b7ce.hot-update.js": {
-      "name": "frontend.f5b92e20e688c580b7ce.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.f5b92e20e688c580b7ce.hot-update.js",
-      "publicPath": "/static/frontend.f5b92e20e688c580b7ce.hot-update.js"
-    },
-    "frontend.f5b92e20e688c580b7ce.hot-update.json": {
-      "name": "frontend.f5b92e20e688c580b7ce.hot-update.json",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/frontend.f5b92e20e688c580b7ce.hot-update.json",
-      "publicPath": "/static/frontend.f5b92e20e688c580b7ce.hot-update.json"
-    },
-    "sparkle_frontend_src_components_FormattedDate_tsx-_9f6e0.bundle.js": {
-      "name": "sparkle_frontend_src_components_FormattedDate_tsx-_9f6e0.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_FormattedDate_tsx-_9f6e0.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_FormattedDate_tsx-_9f6e0.bundle.js"
-    },
-    "sparkle_frontend_src_components_FormattedDate_tsx-_9f6e1.bundle.js": {
-      "name": "sparkle_frontend_src_components_FormattedDate_tsx-_9f6e1.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_FormattedDate_tsx-_9f6e1.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_FormattedDate_tsx-_9f6e1.bundle.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.00b9f1ea6a5ec0aaa8d4.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.00b9f1ea6a5ec0aaa8d4.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.00b9f1ea6a5ec0aaa8d4.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.00b9f1ea6a5ec0aaa8d4.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.22e9a32ebf702dc99ce4.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.22e9a32ebf702dc99ce4.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.22e9a32ebf702dc99ce4.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.22e9a32ebf702dc99ce4.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.3a57fc72ae614a48ed2a.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.3a57fc72ae614a48ed2a.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.3a57fc72ae614a48ed2a.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.3a57fc72ae614a48ed2a.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.75d48fa354a1df62a7ec.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.75d48fa354a1df62a7ec.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.75d48fa354a1df62a7ec.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.75d48fa354a1df62a7ec.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.984c9ba66be4b1e5fb9b.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.984c9ba66be4b1e5fb9b.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.984c9ba66be4b1e5fb9b.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.984c9ba66be4b1e5fb9b.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.a2fb36a6c730cd36fbb2.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.a2fb36a6c730cd36fbb2.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.a2fb36a6c730cd36fbb2.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.a2fb36a6c730cd36fbb2.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.b4477f732c9b7c560366.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.b4477f732c9b7c560366.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.b4477f732c9b7c560366.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.b4477f732c9b7c560366.hot-update.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_components_ItemLine_tsx.df95922e35677fb8cae5.hot-update.js": {
-      "name": "sparkle_frontend_src_components_ItemLine_tsx.df95922e35677fb8cae5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_ItemLine_tsx.df95922e35677fb8cae5.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_ItemLine_tsx.df95922e35677fb8cae5.hot-update.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.1864fe9beba0287e2c36.hot-update.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.1864fe9beba0287e2c36.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.1864fe9beba0287e2c36.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.1864fe9beba0287e2c36.hot-update.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.30f0b7d4a9ea0d7511d5.hot-update.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.30f0b7d4a9ea0d7511d5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.30f0b7d4a9ea0d7511d5.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.30f0b7d4a9ea0d7511d5.hot-update.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.4a03053a2abaf0db6931.hot-update.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.4a03053a2abaf0db6931.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.4a03053a2abaf0db6931.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.4a03053a2abaf0db6931.hot-update.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.ba2e0e62ccf0352094fd.hot-update.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.ba2e0e62ccf0352094fd.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.ba2e0e62ccf0352094fd.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.ba2e0e62ccf0352094fd.hot-update.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.d34999880c8985de87f5.hot-update.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.d34999880c8985de87f5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.d34999880c8985de87f5.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.d34999880c8985de87f5.hot-update.js"
-    },
-    "sparkle_frontend_src_components_LoaderOverlay_tsx.f5b92e20e688c580b7ce.hot-update.js": {
-      "name": "sparkle_frontend_src_components_LoaderOverlay_tsx.f5b92e20e688c580b7ce.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_LoaderOverlay_tsx.f5b92e20e688c580b7ce.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_components_LoaderOverlay_tsx.f5b92e20e688c580b7ce.hot-update.js"
-    },
-    "sparkle_frontend_src_components_NumberInput_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_components_NumberInput_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_NumberInput_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_NumberInput_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_components_SaleRow_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_components_SaleRow_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_SaleRow_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_SaleRow_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_components_SalesList_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_components_SalesList_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_SalesList_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_SalesList_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_components_UserInfo_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_components_UserInfo_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_components_UserInfo_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_components_UserInfo_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.1864fe9beba0287e2c36.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.1864fe9beba0287e2c36.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.1864fe9beba0287e2c36.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.1864fe9beba0287e2c36.hot-update.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.30f0b7d4a9ea0d7511d5.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.30f0b7d4a9ea0d7511d5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.30f0b7d4a9ea0d7511d5.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.30f0b7d4a9ea0d7511d5.hot-update.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.4a03053a2abaf0db6931.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.4a03053a2abaf0db6931.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.4a03053a2abaf0db6931.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.4a03053a2abaf0db6931.hot-update.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.8ae7a94722e2e57c5a8d.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.8ae7a94722e2e57c5a8d.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.8ae7a94722e2e57c5a8d.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.8ae7a94722e2e57c5a8d.hot-update.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.ba2e0e62ccf0352094fd.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.ba2e0e62ccf0352094fd.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.ba2e0e62ccf0352094fd.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.ba2e0e62ccf0352094fd.hot-update.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.d34999880c8985de87f5.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.d34999880c8985de87f5.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.d34999880c8985de87f5.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.d34999880c8985de87f5.hot-update.js"
-    },
-    "sparkle_frontend_src_Layout_tsx.f5b92e20e688c580b7ce.hot-update.js": {
-      "name": "sparkle_frontend_src_Layout_tsx.f5b92e20e688c580b7ce.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_Layout_tsx.f5b92e20e688c580b7ce.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_Layout_tsx.f5b92e20e688c580b7ce.hot-update.js"
-    },
-    "sparkle_frontend_src_pages_HomePage_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_pages_HomePage_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_HomePage_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_HomePage_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_pages_NotFound_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_pages_NotFound_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_NotFound_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_NotFound_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_pages_OrderDetail_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_pages_OrderDetail_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_OrderDetail_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_OrderDetail_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_pages_OrderList_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_pages_OrderList_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_OrderList_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_OrderList_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_pages_OrderSuccess_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_pages_OrderSuccess_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_OrderSuccess_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_OrderSuccess_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.67774564067cff4f46e7.hot-update.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.67774564067cff4f46e7.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.67774564067cff4f46e7.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.67774564067cff4f46e7.hot-update.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.9471d9e81244c7ee8a8d.hot-update.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.9471d9e81244c7ee8a8d.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.9471d9e81244c7ee8a8d.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.9471d9e81244c7ee8a8d.hot-update.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.a2fb36a6c730cd36fbb2.hot-update.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.a2fb36a6c730cd36fbb2.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.a2fb36a6c730cd36fbb2.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.a2fb36a6c730cd36fbb2.hot-update.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.a8883f4d1c5a61d8fa20.hot-update.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.a8883f4d1c5a61d8fa20.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.a8883f4d1c5a61d8fa20.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.a8883f4d1c5a61d8fa20.hot-update.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.b4477f732c9b7c560366.hot-update.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.b4477f732c9b7c560366.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.b4477f732c9b7c560366.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.b4477f732c9b7c560366.hot-update.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.bundle.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.bundle.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.bundle.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.bundle.js"
-    },
-    "sparkle_frontend_src_pages_SaleDetails_tsx.d09f3ff3b8033a7efb34.hot-update.js": {
-      "name": "sparkle_frontend_src_pages_SaleDetails_tsx.d09f3ff3b8033a7efb34.hot-update.js",
-      "path": "/Users/cesar/git/perso/sparkle/sparkle/frontend/dist/sparkle_frontend_src_pages_SaleDetails_tsx.d09f3ff3b8033a7efb34.hot-update.js",
-      "publicPath": "/static/sparkle_frontend_src_pages_SaleDetails_tsx.d09f3ff3b8033a7efb34.hot-update.js"
+    "frontend-e48d10bca00c9dfc6407.js": {
+      "name": "frontend-e48d10bca00c9dfc6407.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/frontend-e48d10bca00c9dfc6407.js",
+      "publicPath": "/static/frontend-e48d10bca00c9dfc6407.js"
+    },
+    "laughingpotato_frontend_src_components_FormattedDate_tsx-_3e100.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_FormattedDate_tsx-_3e100.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_FormattedDate_tsx-_3e100.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_FormattedDate_tsx-_3e100.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_FormattedDate_tsx-_3e101.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_FormattedDate_tsx-_3e101.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_FormattedDate_tsx-_3e101.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_FormattedDate_tsx-_3e101.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_ItemLine_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_ItemLine_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_ItemLine_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_ItemLine_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_LoaderOverlay_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_LoaderOverlay_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_LoaderOverlay_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_LoaderOverlay_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_NumberInput_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_NumberInput_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_NumberInput_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_NumberInput_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_SaleRow_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_SaleRow_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_SaleRow_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_SaleRow_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_SalesList_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_SalesList_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_SalesList_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_SalesList_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_components_UserInfo_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_components_UserInfo_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_components_UserInfo_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_components_UserInfo_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_Layout_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_Layout_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_Layout_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_Layout_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_pages_HomePage_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_pages_HomePage_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_pages_HomePage_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_pages_HomePage_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_pages_NotFound_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_pages_NotFound_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_pages_NotFound_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_pages_NotFound_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_pages_OrderDetail_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_pages_OrderDetail_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_pages_OrderDetail_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_pages_OrderDetail_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_pages_OrderList_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_pages_OrderList_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_pages_OrderList_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_pages_OrderList_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_pages_OrderSuccess_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_pages_OrderSuccess_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_pages_OrderSuccess_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_pages_OrderSuccess_tsx.bundle.js"
+    },
+    "laughingpotato_frontend_src_pages_SaleDetails_tsx.bundle.js": {
+      "name": "laughingpotato_frontend_src_pages_SaleDetails_tsx.bundle.js",
+      "path": "/Users/cesar/git/perso/laughingpotato/laughingpotato/frontend/dist/laughingpotato_frontend_src_pages_SaleDetails_tsx.bundle.js",
+      "publicPath": "/static/laughingpotato_frontend_src_pages_SaleDetails_tsx.bundle.js"
     }
   },
   "chunks": {
     "frontend": [
-      "frontend-6678af2736a5f851dea7.js"
+      "frontend-e48d10bca00c9dfc6407.js"
     ]
   },
-  "publicPath": "/static/",
-  "error": "Error",
-  "message": "[tsl] ERROR in /Users/cesar/git/perso/sparkle/sparkle/frontend/src/components/ItemLine.tsx(38,10)\n      TS17008: JSX element 'Card.Header' has no corresponding closing tag."
+  "publicPath": "/static/"
 }

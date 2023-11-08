@@ -22,5 +22,4 @@ if env("LAUGHINGPOTATO_DJANGO_SECRET") != "whatever":
         if database
         else dj_database_url.parse(env("LAUGHINGPOTATO_DB_DEFAULT"))
     }
-    DATABASES["default"]["ENGINE"] = "django.db.backends.mysql"
-    DATABASES["default"]["OPTIONS"] = {"charset": "utf8mb4"}
+    DATABASES["default"]["ENGINE"] = "django.db.backends.postgresql"

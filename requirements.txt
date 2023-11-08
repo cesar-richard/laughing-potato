@@ -16,8 +16,8 @@ environ
 factory_boy
 flake8
 getconf
-mysqlclient
 pre-commit
+psycopg2-binary
 pytest-cov
 pytest-django
 pytest-env

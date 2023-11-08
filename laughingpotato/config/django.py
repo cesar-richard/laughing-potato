@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "storages",
     "webpack_loader",
+    "django.contrib.humanize",
     "laughingpotato.api",
     "laughingpotato.frontend",
 ]
@@ -46,6 +47,7 @@ MIDDLEWARE = [
     "django.middleware.common.CommonMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    'django.middleware.locale.LocaleMiddleware',
 ]
 
 if DEBUG:

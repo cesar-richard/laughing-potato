@@ -11,7 +11,30 @@ from .serializers import ReportSerializer
 
 
 @staff_member_required
-def facture_detail(request, user_id, year, month):
+def facture_detail(request, user_id, year=datetime.datetime.now().year, month=datetime.datetime.now().month):
+    """
+    Generates a detailed invoice report for a specific user and month,
+    aggregating the user's work hours, weekends, and holidays.
+
+    This view function is protected by the `staff_member_required` decorator,
+    ensuring that only staff members have access to it.
+
+    @param request: The incoming HTTP request.
+    @type request: HttpRequest
+    @param user_id: The ID of the user for whom the invoice report is generated.
+    @type user_id: int
+    @param year: The year for the specified month.
+    @type year: int
+    @param month: The month for which the invoice report is generated.
+    @type month: int
+    @return: A rendered HTML response with the invoice report context.
+    @rtype: HttpResponse
+
+    The generated invoice report includes the user's work hours, weekends, and holidays
+    for the specified month, along with the total work hours and invoice amount.
+    The data is aggregated and displayed in a user-friendly format, making it easy
+    for staff members to review and manage.
+    """
     user = CustomUser.objects.get(id=user_id)
     reports = Report.objects.filter(user=user, date__year=year, date__month=month).order_by('date')
 
@@ -68,7 +91,8 @@ def facture_detail(request, user_id, year, month):
                 break
 
     context = {
-        'user': user,
+        'first_name': user.first_name,
+        'last_name': user.last_name,
         'year': year,
         'month': month,
         'total_temps_travaille': total_temps_travaille,

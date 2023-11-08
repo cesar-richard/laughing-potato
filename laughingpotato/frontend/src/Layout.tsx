@@ -13,7 +13,7 @@ const Layout = () => (
       <Outlet />
     </Suspense>
     <Label color="orange">
-      {`Sparkle@${process.env.LAUGHINGPOTATO_VERSION}`}
+      {`LaughingPotato@${process.env.LAUGHINGPOTATO_VERSION}`}
     </Label>
   </Container>
 );

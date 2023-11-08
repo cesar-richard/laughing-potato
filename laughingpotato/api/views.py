@@ -3,11 +3,17 @@ from rest_framework import generics, status
 from rest_framework.response import Response
 from rest_framework import viewsets
 
-from .models import Report, CustomUser, ReportLineLabel, ReportLine
-from .serializers import ReportSerializer, CustomUserSerializer, ReportLineLabelSerializer, ReportLineSerializer
+from .models import (
+    Report, CustomUser, ReportLineLabel, ReportLine, Client,
+    Organization, OrganizationUser
+)
+from .serializers import (
+    ReportSerializer, CustomUserSerializer, ReportLineLabelSerializer,
+    ReportLineSerializer, ClientSerializer, OrganizationSerializer,
+    OrganizationUserSerializer
+)
 
 
-# Ajoutez ces imports
 class ReportViewSet(viewsets.ModelViewSet):
     queryset = Report.objects.all()
     serializer_class = ReportSerializer
@@ -60,3 +66,18 @@ class ReportLineViewSet(viewsets.ModelViewSet):
 class ReportLineLabelViewSet(viewsets.ModelViewSet):
     queryset = ReportLineLabel.objects.all()
     serializer_class = ReportLineLabelSerializer
+
+
+class ClientViewSet(viewsets.ModelViewSet):
+    queryset = Client.objects.all()
+    serializer_class = ClientSerializer
+
+
+class OrganizationViewSet(viewsets.ModelViewSet):
+    queryset = Organization.objects.all()
+    serializer_class = OrganizationSerializer
+
+
+class OrganizationUserViewSet(viewsets.ModelViewSet):
+    queryset = OrganizationUser.objects.all()
+    serializer_class = OrganizationUserSerializer

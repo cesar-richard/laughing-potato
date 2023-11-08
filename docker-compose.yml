@@ -1,14 +1,18 @@
 version: "3.9"
 services:
   db:
-    image: mariadb
+    image: postgres
     ports:
-      - "3306:3306"
+      - "5432:5432"
     environment:
-      MARIADB_ROOT_PASSWORD: laughingpotato
-      MARIADB_DATABASE: laughingpotato
-      MARIADB_USER: laughingpotato
-      MARIADB_PASSWORD: laughingpotato
+      POSTGRES_USER: laughingpotato
+      POSTGRES_PASSWORD: laughingpotato
+      POSTGRES_DB: laughingpotato
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "laughingpotato"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
   web:
     build: ""
     environment:
@@ -16,10 +20,7 @@ services:
       LAUGHINGPOTATO_DJANGO_DEBUG: "True"
       LAUGHINGPOTATO_DJANGO_ALLOWED_HOSTS: "*"
       LAUGHINGPOTATO_BASE_URL: "/"
-      LAUGHINGPOTATO_DB_DEFAULT: "mysql://root:laughingpotato@db/laughingpotato"
-      LAUGHINGPOTATO_OAUTH_SETTINGS_ID: "YOUR_ID"
-      LAUGHINGPOTATO_OAUTH_SETTINGS_SECRET: "YOUR_SECRET"
-      LAUGHINGPOTATO_WEEZPAY_APPKEY: "YOUR_APPKEY"
+      LAUGHINGPOTATO_DB_DEFAULT: "postgres://laughingpotato:laughingpotato@db/laughingpotato"
       LAUGHINGPOTATO_LOG_LEVEL: "INFO"
     ports:
       - "8003:8000"
@@ -28,4 +29,5 @@ services:
     links:
       - db
     depends_on:
-      - db
+      db:
+        condition: service_healthy

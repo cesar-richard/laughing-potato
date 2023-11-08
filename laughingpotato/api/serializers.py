@@ -1,7 +1,10 @@
 from jours_feries_france import JoursFeries
 from rest_framework import serializers
 
-from .models import Report, CustomUser, ReportLine, ReportLineLabel
+from .models import (
+    Report, CustomUser, ReportLine, ReportLineLabel, Client,
+    Organization, OrganizationUser
+)
 
 
 class CustomUserSerializer(serializers.ModelSerializer):
@@ -42,7 +45,22 @@ class ReportSerializer(serializers.ModelSerializer):
         return obj.date.weekday() >= 5
 
 
-class CustomUserSerializer(serializers.ModelSerializer):
+class ClientSerializer(serializers.ModelSerializer):
     class Meta:
-        model = CustomUser
-        fields = ['id', 'username', 'taux_journalier']
+        model = Client
+        fields = ['id', 'name', 'address']
+
+
+class OrganizationSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Organization
+        fields = ['id', 'name', 'address']
+
+
+class OrganizationUserSerializer(serializers.ModelSerializer):
+    user = CustomUserSerializer()
+    organization = OrganizationSerializer()
+
+    class Meta:
+        model = OrganizationUser
+        fields = ['id', 'user', 'organization', 'role']
