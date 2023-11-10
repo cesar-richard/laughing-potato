@@ -34,7 +34,7 @@ Les données sont conservées jusqu'à la suppression du compte sur demande de l
 
 ## Droits des Utilisateurs
 
-Vous avez le droit d'accéder, de rectifier, de supprimer vos données, et d'autres droits détaillés dans le RGPD. Pour exercer ces droits, veuillez contacter : [Email/Contact de l'Entreprise].
+Vous avez le droit d'accéder, de rectifier, de supprimer vos données, et d'autres droits détaillés dans le RGPD. Pour exercer ces droits, veuillez contacter : <cesar@crichard.fr>.
 
 ## Sécurité des Données
 
